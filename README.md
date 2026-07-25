@@ -187,6 +187,8 @@ The dashboard uses multiple DAX measures for business calculations including:
 - Average Torque
 - Average Fuel Efficiency
 - Luxury Vehicle Share
+- Average Sitting Capacity
+- Top Listing City
 
 ### Brand Performance Measures
 
