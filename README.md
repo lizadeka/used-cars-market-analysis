@@ -88,26 +88,27 @@ The dataset underwent extensive preprocessing before dashboard development.
 
 # 📊 Dashboard Pages
 
-## 1️⃣ Executive Summary
+## 📄 Page 1: Executive Summary
 
-Provides a high-level overview of the used car market.
+The Executive Summary provides a high-level overview of the used car market by combining key business KPIs with interactive visualizations. It enables users to quickly understand the overall market size, pricing landscape, inventory quality, and ownership patterns before exploring detailed analyses.
 
-### KPIs
+### 📌 Business Insights
 
-- Total Cars
-- Average Selling Price
-- Average KM Driven
-- Average Vehicle Age
-- Premium Cars
-- Luxury Cars
+#### Key Performance Indicators (KPIs)
 
-### Visuals
+- 🚘 **38K+** used cars were analyzed, providing a comprehensive view of the market.
+- 💰 The **average selling price is ₹8.59 lakh**, indicating a market primarily focused on affordable and mid-range vehicles.
+- 🛣️ Vehicles have an **average mileage of 65K km**, reflecting moderate usage across the inventory.
+- 📅 The **average vehicle age is 10 years**, highlighting a mature used car market.
+- ⭐ Around **3K premium vehicles** are available, while only **38 luxury vehicles** exist, showing that the luxury segment represents a very small share of the inventory.
 
-- Top 10 Brands by Average Selling Price
-- Vehicle Distribution by Price Category
-- Vehicle Age Distribution
-- Vehicle Distribution by KM Category
-- Vehicle Listings by Ownership Type
+#### Dashboard Insights
+
+- 💎 **Rolls-Royce** records the **highest average selling price** among all brands, significantly outperforming other manufacturers.
+- 📈 **3-year-old vehicles** have the **highest average selling price**, indicating strong resale value in newer vehicles.
+- 💰 The inventory is largely concentrated in the **Budget** price segment, showing that the marketplace mainly serves value-conscious buyers.
+- 👤 **First-owner vehicles** dominate the inventory, suggesting better resale quality and stronger buyer confidence.
+- 🚗 Most vehicles fall within the **Medium and High KM categories**, indicating that the majority of listed vehicles have been actively used rather than being low-mileage cars.
 
 ---
 
