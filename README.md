@@ -133,19 +133,27 @@ Explore Regional Markets, Brand Presence & Inventory Distribution.
 
 ---
 
-## 3️⃣ Features & Specifications
+## 📄 Page 4: Features & Specifications
 
-Explore Vehicle Features, Specifications & Performance Metrics.
+This page explores the technical specifications and feature availability of vehicles in the inventory. It helps users understand vehicle performance, fuel efficiency, transmission preferences, and the most common features offered across different vehicle segments.
 
-Includes analysis of:
+### 📌 Business Insights
 
-- Fuel Type
-- Transmission
-- Body Type
-- Engine
-- Mileage
-- Vehicle Features
-- Performance Specifications
+#### Key Performance Indicators (KPIs)
+
+- ⚙️ Vehicles offer an **average engine power of 106.70 bhp**, making the inventory suitable for both city and highway driving.
+- 🔧 The **average torque is 191.16 Nm**, indicating balanced vehicle performance across different models.
+- 👥 Most vehicles have an **average seating capacity of 5**, reflecting the popularity of family-oriented passenger cars.
+- ⛽ The **average fuel efficiency is 19.42 km/l**, highlighting a good balance between performance and fuel economy.
+- 💎 **Luxury vehicles account for only 10.8% of the inventory**, showing that the marketplace is largely dominated by non-luxury vehicles.
+
+#### Dashboard Insights
+
+- 🚗 **Hatchbacks and Sedans** represent the largest share of vehicle body types, making them the most common choices in the used car market.
+- ⭐ **Air Conditioner, Power Steering, Heater, Power Windows (Front), and Adjustable Headlights** are the most frequently available vehicle features, indicating that these have become standard offerings.
+- ⚡ **Electric vehicles record the highest average fuel efficiency (88.62 km/l equivalent)**, followed by **CNG vehicles (27.45 km/l)**, demonstrating the efficiency advantage of alternative fuel vehicles.
+- ⛽ **Petrol vehicles dominate the inventory**, while **Diesel vehicles** form the second-largest segment of the market.
+- ⚙️ **Manual transmission vehicles account for nearly three-fourths of the listings (73.74%)**, indicating a significantly higher market presence compared to automatic vehicles.
 
 ---
 
