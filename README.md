@@ -33,11 +33,9 @@ Designed for dealerships, analysts, and decision-makers, the dashboard transform
 
 **Dataset:** Used Cars (CarDekho) Dataset – Kaggle
 
-This project was developed using the **Used Cars (CarDekho) Kaggle Dataset**, which consists of two datasets.
+This project utilizes the **Used Cars (CarDekho) Kaggle Dataset**, which consists of two datasets containing comprehensive information about used vehicles listed across India.
 
-### My Dataset
-
-I worked on the **Car Details** dataset, which originally contained **140 columns** covering various aspects of used vehicles, including:
+The datasets include attributes such as:
 
 - Vehicle information
 - Brand and model details
@@ -49,7 +47,7 @@ I worked on the **Car Details** dataset, which originally contained **140 column
 - Geographic information
 - Seller details
 
-The dataset was extensively cleaned and transformed before being used for dashboard development.
+The data was cleaned, transformed, and modeled to support business analysis and interactive dashboard development.
 
 ---
 
@@ -80,9 +78,9 @@ Both datasets together contributed to the overall project and dashboard developm
 
 ---
 
-# ⚙️ Data Preparation & Feature Engineering
+# ⚙️ My Contribution: Data Preparation & Feature Engineering
 
-A significant portion of this project focused on preparing the **Car Details** dataset for analysis. Using **Power Query**, the raw data was cleaned, transformed, and enhanced through feature engineering to improve data quality, ensure analytical accuracy, and support the development of reliable KPIs, DAX measures, and interactive Power BI dashboards.
+For my assigned **Car Details** dataset, I performed extensive data cleaning and transformation using **Power Query**. This involved improving data quality, engineering new analytical features, correcting inconsistencies, and preparing the dataset for DAX calculations, KPIs, and interactive Power BI dashboards.
 
 ## Data Cleaning
 
