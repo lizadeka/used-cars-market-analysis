@@ -2,18 +2,20 @@
 
 ## 📌 Project Overview
 
-This project presents an end-to-end business intelligence solution for analyzing the Indian used car market using **Power BI**.
+This project presents an end-to-end Business Intelligence solution developed using the **Used Cars (CarDekho) Kaggle Dataset**. The project was completed collaboratively, with each team member working on a different dataset before combining the analytical findings into a comprehensive Power BI dashboard.
 
-Starting from a raw dataset containing over **140 columns**, the data was cleaned, transformed, and modeled to create an interactive dashboard that provides insights into:
+As part of the project, I was responsible for the **Car Details** dataset, where I performed extensive **data cleaning, feature engineering, Power Query transformations, DAX development, and dashboard design**. The raw dataset was reduced from **140 columns to 108 columns**, preparing it for accurate analysis and interactive reporting.
 
-- Vehicle pricing
+The dashboard provides business insights into:
+
+- Vehicle pricing trends
 - Brand performance
 - Geographic distribution
-- Vehicle specifications
-- Market trends
-- Customer inventory characteristics
+- Vehicle specifications and features
+- Market and inventory trends
+- Vehicle ownership and usage patterns
 
-The dashboard is designed to help dealerships, analysts, and decision-makers better understand the used car market through interactive visualizations and business KPIs.
+Designed for dealerships, analysts, and decision-makers, the dashboard transforms raw automotive data into actionable insights through interactive visualizations, business KPIs, and data-driven storytelling.
 
 ---
 
@@ -29,23 +31,58 @@ The dashboard is designed to help dealerships, analysts, and decision-makers bet
 
 # 📂 Dataset
 
-**Dataset:** Used Cars Dataset (CarDekho)
+**Dataset:** Used Cars (CarDekho) Dataset – Kaggle
 
-The original dataset contained over **140 attributes** related to:
+This project was developed using the **Used Cars (CarDekho) Kaggle Dataset**, which consists of two datasets.
+
+### My Dataset
+
+I worked on the **Car Details** dataset, which originally contained **140 columns** covering various aspects of used vehicles, including:
 
 - Vehicle information
-- Engine specifications
-- Ownership
-- Pricing
-- Features
-- Seller information
-- Geographic details
+- Brand and model details
+- Pricing information
+- Engine and performance specifications
+- Fuel and transmission details
+- Ownership history
+- Vehicle features
+- Geographic information
+- Seller details
+
+The dataset was extensively cleaned and transformed before being used for dashboard development.
+
+---
+
+# 🤝 Collaboration & Individual Contribution
+
+This project was completed in collaboration with a teammate using two datasets from the **Used Cars (CarDekho) Kaggle Dataset**.
+
+To ensure efficient development, the work was divided as follows:
+
+### My Contribution
+
+I worked on the **Car Details** dataset and was responsible for:
+
+- Cleaning and transforming the dataset using **Power Query**
+- Reducing the dataset from **140 columns to 108 columns** by removing unnecessary attributes
+- Correcting unrealistic odometer (KM Driven) anomalies
+- Creating numeric columns for analytical calculations
+- Engineering derived columns (`car_age`, `price_category`, `km_category`, and `luxury_brand`)
+- Normalizing the **top_features** column and creating a separate **Vehicle Features** table
+- Developing DAX measures and KPIs
+- Designing and building the complete Power BI dashboard
+
+### Teammate's Contribution
+
+My teammate worked on the **Car Data** dataset and was responsible for its data preparation and analysis.
+
+Both datasets together contributed to the overall project and dashboard development.
 
 ---
 
 # ⚙️ Data Preparation & Feature Engineering
 
-The original dataset required extensive preprocessing before it could be used for business analysis. Data cleaning and feature engineering were performed using **Power Query** to improve data quality, standardize values, and prepare the dataset for analytical reporting.
+A significant portion of this project focused on preparing the **Car Details** dataset for analysis. Using **Power Query**, the raw data was cleaned, transformed, and enhanced through feature engineering to improve data quality, ensure analytical accuracy, and support the development of reliable KPIs, DAX measures, and interactive Power BI dashboards.
 
 ## Data Cleaning
 
