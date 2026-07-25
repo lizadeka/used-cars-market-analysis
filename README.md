@@ -250,15 +250,15 @@ Additional DAX measures were created to support dynamic KPIs and dashboard visua
 - Vehicle Specification Analysis
 
 ---
+# 💡 Overall Business Insights
 
-# 💡 Business Insights
-
-- Over **38K** used cars were analyzed.
-- The inventory is dominated by budget and mid-range vehicles.
-- Maruti has the highest number of listings.
-- Rolls-Royce records the highest average selling price.
-- First-owner vehicles represent the largest share of listings.
-- The inventory is primarily composed of mid-aged vehicles with moderate mileage.
+- The dashboard analyzes **38K+ used car listings** across **31 states and 489 cities**, providing a comprehensive view of the Indian used car market.
+- The market is largely driven by **budget and mid-range vehicles**, while premium and luxury vehicles make up a relatively small share of the inventory.
+- **Maruti** dominates the market in terms of inventory volume, whereas **Rolls-Royce** leads in average selling price, highlighting the contrast between mass-market and luxury brands.
+- **Petrol vehicles** are the most common fuel type, and **manual transmission** remains the preferred transmission among used cars.
+- The average vehicle in the inventory is **10 years old** with approximately **65K km driven**, reflecting a mature and actively used resale market.
+- Major automotive markets are concentrated in **Maharashtra, Uttar Pradesh, Gujarat, and New Delhi**, indicating strong regional demand for used vehicles.
+- Hatchbacks and sedans dominate the inventory, while features such as **Air Conditioner** and **Power Steering** have become standard across most listings.
 
 ---
 
