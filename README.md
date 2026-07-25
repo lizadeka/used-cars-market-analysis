@@ -43,39 +43,53 @@ The original dataset contained over **140 attributes** related to:
 
 ---
 
-# Data Preparation & Feature Engineering
+# ⚙️ Data Preparation & Feature Engineering
 
-The dataset was extensively transformed using **Power Query** before building the dashboard.
+The original dataset required extensive preprocessing before it could be used for business analysis. Data cleaning and feature engineering were performed using **Power Query** to improve data quality, standardize values, and prepare the dataset for analytical reporting.
 
-### Data Cleaning
+## Data Cleaning
 
-- Removed unnecessary columns, reducing the dataset from **140 to 108 columns**
-- Removed redundant and irrelevant attributes
-- Standardized text values
-- Cleaned mileage and KM Driven columns
-- Converted numeric fields for analytical use
+- Reduced the dataset from **140 columns to 108 columns** by removing unnecessary and low-value attributes.
+- Cleaned inconsistent and missing values across multiple columns.
+- Corrected **unrealistic odometer (KM Driven) anomalies**, improving the accuracy of vehicle usage analysis, KPIs, and dashboard insights.
+- Standardized vehicle specifications for consistent reporting.
+- Converted text-based numeric fields into analytical numeric columns.
 
-### Numeric Columns Created
+## Numeric Columns Created
 
-- price_numeric
-- km_numeric
-- mileage_numeric
-- max_power_numeric
-- max_torque_numeric
+The following numeric columns were created to enable calculations and visualizations:
 
-### Derived Columns
+- `price_numeric`
+- `km_numeric`
+- `mileage_numeric`
+- `max_power_numeric`
+- `max_torque_numeric`
 
-- car_age
-- price_category
-- km_category
-- luxury_brand
+> **Note:** During data import, the original **price** column remained as text. After changing its data type in Power BI, a numeric column named **`pu`** was created. All DAX measures, KPIs, and price-related visuals were built using the **`pu`** column instead of the original text field.
 
-### Additional Transformations
+## Derived Columns Created
 
-- Created a separate **Vehicle Features** table using Power Query.
-- Split the **Top Features** column into individual feature values.
-- Transformed feature data into a structured format to analyze the most common vehicle features.
-- Enabled feature-based visualizations, including the **Top 10 Vehicle Features** analysis.
+Additional business-focused columns were engineered to improve analysis:
+
+- `car_age`
+- `price_category`
+- `km_category`
+- `luxury_brand`
+
+These derived columns enabled market segmentation, inventory classification, and interactive filtering throughout the dashboard.
+
+## Vehicle Features Transformation
+
+The original **top_features** column stored multiple features as comma-separated text.
+
+Using **Power Query**:
+
+- Split the comma-separated values into individual rows.
+- Normalized the feature data.
+- Created a separate **Vehicle Features** table.
+- Enabled analysis of the **Top 10 Most Common Vehicle Features** across the inventory.
+
+This transformation allowed feature-level analysis that was not possible using the original dataset structure.
 
 ---
 
@@ -160,6 +174,8 @@ This page analyzes the geographic distribution of vehicle listings and brand per
 
 The dashboard uses multiple DAX measures for business calculations including:
 
+### Core Business Measures
+
 - Total Cars
 - Total Listings
 - Total States
@@ -170,14 +186,17 @@ The dashboard uses multiple DAX measures for business calculations including:
 - Average Engine Power
 - Average Torque
 - Average Fuel Efficiency
-- Highest Average Price
-- Highest Average Price Brand
-- Highest Average Price Brand Name
+- Luxury Vehicle Share
+
+### Brand Performance Measures
+
 - Most Listed Brand
 - Most Listed Brand Count
 - Most Listed Brand Name
-- Luxury Vehicle Share
-
+- Highest Average Price
+- Highest Average Price Brand
+- Highest Average Price Brand Name
+  
 Additional DAX measures were created to support dynamic KPIs and dashboard visuals.
 
 ---
