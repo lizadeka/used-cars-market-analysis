@@ -43,24 +43,17 @@ The original dataset contained over **140 attributes** related to:
 
 ---
 
-# 🧹 Data Cleaning & Transformation
+# Data Preparation & Feature Engineering
 
-The dataset underwent extensive preprocessing before dashboard development.
+The dataset was extensively transformed using **Power Query** before building the dashboard.
 
 ### Data Cleaning
 
-- Removed unnecessary columns
-- Reduced dataset from **140 columns to 108 columns**
-- Removed irrelevant attributes
-- Fixed inconsistent values
-- Cleaned mileage values
-- Cleaned KM Driven values
-- Converted price into numeric format
-- Standardized vehicle information
-
----
-
-# ⚙️ Feature Engineering
+- Removed unnecessary columns, reducing the dataset from **140 to 108 columns**
+- Removed redundant and irrelevant attributes
+- Standardized text values
+- Cleaned mileage and KM Driven columns
+- Converted numeric fields for analytical use
 
 ### Numeric Columns Created
 
@@ -70,19 +63,19 @@ The dataset underwent extensive preprocessing before dashboard development.
 - max_power_numeric
 - max_torque_numeric
 
-### Derived Columns Created
+### Derived Columns
 
 - car_age
 - price_category
 - km_category
 - luxury_brand
 
-### Power Query Transformations
+### Additional Transformations
 
-- Split "Top Features" into separate feature columns
-- Cleaned vehicle mileage
-- Cleaned KM Driven values
-- Prepared numeric fields for analytical calculations
+- Created a separate **Vehicle Features** table using Power Query.
+- Split the **Top Features** column into individual feature values.
+- Transformed feature data into a structured format to analyze the most common vehicle features.
+- Enabled feature-based visualizations, including the **Top 10 Vehicle Features** analysis.
 
 ---
 
@@ -112,24 +105,7 @@ The Executive Summary provides a high-level overview of the used car market by c
 
 ---
 
-## 2️⃣ Geographic & Brand Insights
 
-Explore Regional Markets, Brand Presence & Inventory Distribution.
-
-### KPIs
-
-- Total States
-- Total Cities
-- Most Listed Brand
-- Highest Average Price Brand
-- Top Listing City
-
-### Visuals
-
-- Geographic Distribution
-- Top Brand Analysis
-- Brand-wise Fuel Type Comparison
-- State-wise Market Distribution
 
 ---
 
@@ -184,19 +160,23 @@ This page analyzes the geographic distribution of vehicle listings and brand per
 
 The dashboard uses multiple DAX measures for business calculations including:
 
+- Total Cars
 - Total Listings
-- Average Selling Price
-- Average KM
-- Average Vehicle Age
-- Premium Vehicle Count
-- Luxury Vehicle Count
-- Most Listed Brand
-- Most Listed Brand Count
-- Highest Average Price Brand
-- Highest Average Selling Price
-- Top Listing City
 - Total States
 - Total Cities
+- Total Premium Cars
+- Average Selling Price
+- Average Vehicle Age
+- Average Engine Power
+- Average Torque
+- Average Fuel Efficiency
+- Highest Average Price
+- Highest Average Price Brand
+- Highest Average Price Brand Name
+- Most Listed Brand
+- Most Listed Brand Count
+- Most Listed Brand Name
+- Luxury Vehicle Share
 
 Additional DAX measures were created to support dynamic KPIs and dashboard visuals.
 
