@@ -96,19 +96,19 @@ The Executive Summary provides a high-level overview of the used car market by c
 
 #### Key Performance Indicators (KPIs)
 
-- 🚘 **38K+** used cars were analyzed, providing a comprehensive view of the market.
-- 💰 The **average selling price is ₹8.59 lakh**, indicating a market primarily focused on affordable and mid-range vehicles.
-- 🛣️ Vehicles have an **average mileage of 65K km**, reflecting moderate usage across the inventory.
-- 📅 The **average vehicle age is 10 years**, highlighting a mature used car market.
-- ⭐ Around **3K premium vehicles** are available, while only **38 luxury vehicles** exist, showing that the luxury segment represents a very small share of the inventory.
+- **38K+** used cars were analyzed, providing a comprehensive view of the market.
+- The **average selling price is ₹8.59 lakh**, indicating a market primarily focused on affordable and mid-range vehicles.
+- Vehicles have an **average mileage of 65K km**, reflecting moderate usage across the inventory.
+- The **average vehicle age is 10 years**, highlighting a mature used car market.
+- Around **3K premium vehicles** are available, while only **38 luxury vehicles** exist, showing that the luxury segment represents a very small share of the inventory.
 
 #### Dashboard Insights
 
-- 💎 **Rolls-Royce** records the **highest average selling price** among all brands, significantly outperforming other manufacturers.
-- 📈 **3-year-old vehicles** have the **highest average selling price**, indicating strong resale value in newer vehicles.
-- 💰 The inventory is largely concentrated in the **Budget** price segment, showing that the marketplace mainly serves value-conscious buyers.
-- 👤 **First-owner vehicles** dominate the inventory, suggesting better resale quality and stronger buyer confidence.
-- 🚗 Most vehicles fall within the **Medium and High KM categories**, indicating that the majority of listed vehicles have been actively used rather than being low-mileage cars.
+- **Rolls-Royce** records the **highest average selling price** among all brands, significantly outperforming other manufacturers.
+- **3-year-old vehicles** have the **highest average selling price**, indicating strong resale value in newer vehicles.
+- The inventory is largely concentrated in the **Budget** price segment, showing that the marketplace mainly serves value-conscious buyers.
+- **First-owner vehicles** dominate the inventory, suggesting better resale quality and stronger buyer confidence.
+- Most vehicles fall within the **Medium and High KM categories**, indicating that the majority of listed vehicles have been actively used rather than being low-mileage cars.
 
 ---
 
@@ -141,19 +141,42 @@ This page explores the technical specifications and feature availability of vehi
 
 #### Key Performance Indicators (KPIs)
 
-- ⚙️ Vehicles offer an **average engine power of 106.70 bhp**, making the inventory suitable for both city and highway driving.
-- 🔧 The **average torque is 191.16 Nm**, indicating balanced vehicle performance across different models.
-- 👥 Most vehicles have an **average seating capacity of 5**, reflecting the popularity of family-oriented passenger cars.
-- ⛽ The **average fuel efficiency is 19.42 km/l**, highlighting a good balance between performance and fuel economy.
-- 💎 **Luxury vehicles account for only 10.8% of the inventory**, showing that the marketplace is largely dominated by non-luxury vehicles.
+- Vehicles offer an **average engine power of 106.70 bhp**, making the inventory suitable for both city and highway driving.
+- The **average torque is 191.16 Nm**, indicating balanced vehicle performance across different models.
+- Most vehicles have an **average seating capacity of 5**, reflecting the popularity of family-oriented passenger cars.
+- The **average fuel efficiency is 19.42 km/l**, highlighting a good balance between performance and fuel economy.
+- **Luxury vehicles account for only 10.8% of the inventory**, showing that the marketplace is largely dominated by non-luxury vehicles.
 
 #### Dashboard Insights
 
-- 🚗 **Hatchbacks and Sedans** represent the largest share of vehicle body types, making them the most common choices in the used car market.
-- ⭐ **Air Conditioner, Power Steering, Heater, Power Windows (Front), and Adjustable Headlights** are the most frequently available vehicle features, indicating that these have become standard offerings.
-- ⚡ **Electric vehicles record the highest average fuel efficiency (88.62 km/l equivalent)**, followed by **CNG vehicles (27.45 km/l)**, demonstrating the efficiency advantage of alternative fuel vehicles.
-- ⛽ **Petrol vehicles dominate the inventory**, while **Diesel vehicles** form the second-largest segment of the market.
-- ⚙️ **Manual transmission vehicles account for nearly three-fourths of the listings (73.74%)**, indicating a significantly higher market presence compared to automatic vehicles.
+- **Hatchbacks and Sedans** represent the largest share of vehicle body types, making them the most common choices in the used car market.
+- **Air Conditioner, Power Steering, Heater, Power Windows (Front), and Adjustable Headlights** are the most frequently available vehicle features, indicating that these have become standard offerings.
+- **Electric vehicles record the highest average fuel efficiency (88.62 km/l equivalent)**, followed by **CNG vehicles (27.45 km/l)**, demonstrating the efficiency advantage of alternative fuel vehicles.
+- **Petrol vehicles dominate the inventory**, while **Diesel vehicles** form the second-largest segment of the market.
+- **Manual transmission vehicles account for nearly three-fourths of the listings (73.74%)**, indicating a significantly higher market presence compared to automatic vehicles.
+
+---
+
+## 📄 Page 5: Geographic & Brand Insights
+
+This page analyzes the geographic distribution of vehicle listings and brand performance across different regions. It provides insights into regional market concentration, leading automotive brands, fuel preferences, and city-wise inventory distribution.
+
+### 📌 Business Insights
+
+#### Key Performance Indicators (KPIs)
+
+- The inventory covers **31 states and 489 cities**, indicating a wide geographic presence across India.
+- **Maruti** is the **most listed brand** with over **10K vehicle listings**, reflecting its strong dominance in the used car market.
+- **Rolls-Royce** records the **highest average selling price (₹9.55 crore)**, making it the most premium brand in the inventory.
+- **New Delhi** has the highest number of vehicle listings, making it the largest regional market in the dataset.
+
+#### Dashboard Insights
+
+- **Maharashtra, Uttar Pradesh, Gujarat, Haryana, Rajasthan, Telangana, and Tamil Nadu** account for the largest share of vehicle listings, highlighting major regional markets for used cars.
+- **Maruti, Hyundai, and Honda** dominate the market, with Maruti holding the largest overall market share.
+- **Petrol vehicles dominate the inventory for leading brands**, while diesel remains the second most preferred fuel type across major manufacturers.
+- **Rolls-Royce and Ferrari** lead the market in terms of average selling price, representing the ultra-premium segment.
+- **New Delhi (5.9K listings) and Pune (4.6K listings)** emerge as the leading cities in the dataset, indicating strong used-car market activity in these major urban centers.
 
 ---
 
