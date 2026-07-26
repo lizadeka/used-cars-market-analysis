@@ -70,13 +70,13 @@ I worked on the **Car Details** dataset and was responsible for:
 - Developing DAX measures and KPIs
 - Designing and building the complete Power BI dashboard
 
-## Teammate's Contribution (Car Data Dataset)
+##  Shubh Srivastava's Contribution (Car Data Dataset)
 
 ### Responsibilities
 
 - Prepared and transformed the **Car Data** dataset.
 - Performed data cleaning and preprocessing on the assigned dataset.
-- Designed dashboard layouts.
+- Designed dashboard layout.
 - Assisted in integrating insights from both datasets into the final dashboard.
 
 Both datasets together contributed to the overall project and dashboard development.
