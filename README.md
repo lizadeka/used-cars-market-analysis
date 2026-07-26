@@ -53,7 +53,7 @@ The data was cleaned, transformed, and modeled to support business analysis and 
 
 # 🤝 Collaboration
 
-This project was completed in collaboration with Shubh Srivasatava using two datasets from the **Used Cars (CarDekho) Kaggle Dataset**.
+This project was completed in collaboration with Shubh Srivastava using two datasets from the **Used Cars (CarDekho) Kaggle Dataset**.
 
 To ensure efficient development, the work was divided as follows:
 
