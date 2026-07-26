@@ -212,7 +212,7 @@ This page analyzes the geographic distribution of vehicle listings and brand per
 
 # 📈 DAX Measures
 
-The dashboard uses multiple DAX measures for business calculations including:
+As part of my contribution to this project, I developed custom **DAX measures** to power dynamic KPIs, business calculations, and interactive dashboard visualizations.
 
 ### Core Business Measures
 
