@@ -51,9 +51,9 @@ The data was cleaned, transformed, and modeled to support business analysis and 
 
 ---
 
-# 🤝 Collaboration & Individual Contribution
+# 🤝 Collaboration
 
-This project was completed in collaboration with a teammate using two datasets from the **Used Cars (CarDekho) Kaggle Dataset**.
+This project was completed in collaboration with Shubh Srivasatava using two datasets from the **Used Cars (CarDekho) Kaggle Dataset**.
 
 To ensure efficient development, the work was divided as follows:
 
@@ -70,9 +70,14 @@ I worked on the **Car Details** dataset and was responsible for:
 - Developing DAX measures and KPIs
 - Designing and building the complete Power BI dashboard
 
-### Teammate's Contribution
+## Teammate's Contribution (Car Data Dataset)
 
-My teammate worked on the **Car Data** dataset and was responsible for its data preparation and analysis.
+### Responsibilities
+
+- Prepared and transformed the **Car Data** dataset.
+- Performed data cleaning and preprocessing on the assigned dataset.
+- Designed dashboard layouts.
+- Assisted in integrating insights from both datasets into the final dashboard.
 
 Both datasets together contributed to the overall project and dashboard development.
 
