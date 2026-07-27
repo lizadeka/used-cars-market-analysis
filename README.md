@@ -340,7 +340,11 @@ Additional DAX measures were created to support dynamic KPIs and dashboard visua
 
 # 📷 Dashboard Preview
 
-(Add screenshots here)
+<img width="1207" height="677" alt="image" src="https://github.com/user-attachments/assets/6e336fe7-79d3-427b-93ea-bb85ad58e921" />
+<img width="1207" height="681" alt="image" src="https://github.com/user-attachments/assets/44aae29e-bf3a-4e46-86ee-1508951f200b" />
+<img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/3a30cade-207f-4b2e-a870-d7e569a4b6d1" />
+<img width="1200" height="672" alt="image" src="https://github.com/user-attachments/assets/ac60697a-43c3-4e4f-ba7d-19b5d3383544" />
+<img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/04530f84-1fd5-42c2-b6e6-16bfcebe15d1" />
 
 ---
 
@@ -350,7 +354,6 @@ Additional DAX measures were created to support dynamic KPIs and dashboard visua
 - Vehicle recommendation dashboard
 - Market trend forecasting
 - Time-series price analysis
-- Interactive drill-through pages
 
 ---
 
