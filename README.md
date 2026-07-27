@@ -65,7 +65,7 @@ I worked on the **Car Details** dataset and was responsible for:
 - Developed the **Features & Specifications** and **Geographic & Brand Insights** pages.
 - Collaborated on the **Executive Summary** page, including KPI selection, visualization planning, and business insights.
 - Developed custom DAX measures and KPIs.
-- Deriving business insights and recommendations from the dashboard analysis.
+- Deriving business insights from the dashboard analysis.
 - Prepared the GitHub repository and project README.
 
 ## Shubh Srivastava's Contribution
