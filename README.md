@@ -68,7 +68,7 @@ I worked on the **Car Details** dataset and was responsible for:
 - Deriving business insights and recommendations from the dashboard analysis.
 - Prepared the GitHub repository and project README.
 
-## 👨‍💻 Shubh Srivastava's Responsibilities
+## Shubh Srivastava's Contribution
 
 - Managed the **Car Data** dataset.
 - Designed the overall dashboard theme.
@@ -194,7 +194,6 @@ This page analyzes vehicle pricing, inventory composition, ownership patterns, a
 - **Petrol vehicles** have the **highest average listing price**, outperforming other fuel types.
 - **Single-owner vehicles** dominate the inventory with **26.57K listings**, highlighting strong availability of well-maintained resale vehicles.
 - **Automatic transmission vehicles** command a **higher average listing price** than manual vehicles, reflecting greater market value and buyer preference.
-
 
 ---
 
