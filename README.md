@@ -61,23 +61,29 @@ To ensure efficient development, the work was divided as follows:
 
 I worked on the **Car Details** dataset and was responsible for:
 
-- Cleaning and transforming the dataset using **Power Query**
-- Reducing the dataset from **140 columns to 108 columns** by removing unnecessary attributes
-- Correcting unrealistic odometer (KM Driven) anomalies
-- Creating numeric columns for analytical calculations
-- Engineering derived columns (`car_age`, `price_category`, `km_category`, and `luxury_brand`)
-- Normalizing the **top_features** column and creating a separate **Vehicle Features** table
-- Developing DAX measures and KPIs
-- Designing and building the complete Power BI dashboard
 
-##  Shubh Srivastava's Contribution (Car Data Dataset)
+- Cleaning and transforming the **Car Details** dataset using Power Query.
+- Reducing the dataset from **140 columns to 108 columns** by removing unnecessary attributes.
+- Correcting unrealistic **KM Driven** anomalies to improve dashboard accuracy.
+- Creating numeric analytical columns for calculations.
+- Engineering derived columns (`car_age`, `price_category`, `km_category`, and `luxury_brand`).
+- Normalizing the **top_features** column and creating a separate **Vehicle Features** table.
+- Developing custom **DAX measures**, KPIs, and calculated metrics.
+- Developing the **Features & Specifications** and **Geographic & Brand Insights** pages.
+- Contributing to the planning, KPI selection, chart selection, and business insights for the **Executive Summary** page.
+- Planning the KPIs, selecting business-relevant visualizations, and deriving insights for these dashboard pages.
+- Preparing the GitHub documentation and project README.
 
-### Responsibilities
+## 👨‍💻 Shubh Srivastava's Contribution (Car Data Dataset)
+
+Responsibilities:
 
 - Prepared and transformed the **Car Data** dataset.
 - Performed data cleaning and preprocessing on the assigned dataset.
-- Designed dashboard layout.
-- Assisted in integrating insights from both datasets into the final dashboard.
+- Designed the overall dashboard theme.
+- Developed the **Dynamic Car Profile** page and **Market and Vehicle Analysis** page.
+- Collaborated on the **Executive Summary** page.
+- Assisted in integrating both datasets into the final dashboard.
 
 Both datasets together contributed to the overall project and dashboard development.
 
