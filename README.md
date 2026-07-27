@@ -315,9 +315,10 @@ Additional DAX measures were created to support dynamic KPIs and dashboard visua
 ```
 📂 Used Cars Market Analysis
 │
-├── Dashboard.pbix
+├── DriverInsight_Dashboard2.pbix
 ├── Dashboard Screenshots
 ├── README.md
+├── LICENSE
 ```
 
 ---
@@ -344,15 +345,6 @@ Additional DAX measures were created to support dynamic KPIs and dashboard visua
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/3a30cade-207f-4b2e-a870-d7e569a4b6d1" />
 <img width="1200" height="672" alt="image" src="https://github.com/user-attachments/assets/ac60697a-43c3-4e4f-ba7d-19b5d3383544" />
 <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/04530f84-1fd5-42c2-b6e6-16bfcebe15d1" />
-
----
-
-# 📌 Future Improvements
-
-- Predictive price modeling
-- Vehicle recommendation dashboard
-- Market trend forecasting
-- Time-series price analysis
 
 ---
 
