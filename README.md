@@ -306,7 +306,7 @@ Additional DAX measures were created to support dynamic KPIs and dashboard visua
 - Power BI Desktop
 - Power Query
 - DAX
-- Microsoft Excel
+- PostgreSQL
 
 ---
 
@@ -316,7 +316,6 @@ Additional DAX measures were created to support dynamic KPIs and dashboard visua
 📂 Used Cars Market Analysis
 │
 ├── Dashboard.pbix
-├── Cleaned Dataset.xlsx
 ├── Dashboard Screenshots
 ├── README.md
 ```
