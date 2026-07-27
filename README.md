@@ -159,6 +159,45 @@ The Executive Summary provides a high-level overview of the used car market by c
 
 ---
 
+## 📄 Page 2: Dynamic Car Profile
+
+The Dynamic Car Profile enables users to interactively explore individual vehicles by selecting a brand and model. It provides a detailed overview of each vehicle through dynamic filtering, helping users compare specifications, features, and performance in a user-friendly format.
+
+### 📌 Business Insights
+
+Unlike other pages, this section focuses on **individual vehicle exploration** rather than aggregated market analysis.
+
+Users can:
+
+- Select a vehicle brand and model to view a dynamic vehicle profile.
+- View the corresponding vehicle image for the selected car.
+- Explore technical specifications, including engine, fuel type, transmission, seating capacity, and other key attributes.
+- Review performance specifications and important vehicle metrics.
+- Access a quick summary, vehicle details, and key highlights for the selected vehicle.
+- Compare different vehicles through interactive filters, making it easier to understand individual vehicle characteristics before market-level analysis.
+
+---
+
+## 📄 Page 3: Market & Vehicle Analytics
+
+This page analyzes vehicle pricing, inventory composition, ownership patterns, and market trends across different vehicle categories. It helps identify the factors influencing vehicle value and provides insights into market demand across brands, fuel types, and transmission options.
+
+### 📌 Business Insights
+
+#### Key Performance Indicators (KPIs)
+
+- The **average listing price is ₹8 lakh**, representing the overall market value of used vehicles.
+- Vehicles are priced at an average of **₹42.69 per kilometer driven**, providing an indicator of value relative to vehicle usage.
+- The **average vehicle age is 10 years**, reflecting a mature used car inventory.
+- Vehicles have an **average mileage of 65K km**, indicating moderate usage across the market.
+
+#### Dashboard Insights
+
+- **Pickup trucks and SUVs** record the **highest average listing prices**, making them the most valuable body types in the inventory.
+- **Land Rover** leads the **Top 10 Brands by Inventory**, indicating a strong presence within the analyzed inventory.
+- **Petrol vehicles** have the **highest average listing price**, outperforming other fuel types.
+- **Single-owner vehicles** dominate the inventory with **26.57K listings**, highlighting strong availability of well-maintained resale vehicles.
+- **Automatic transmission vehicles** command a **higher average listing price** than manual vehicles, reflecting greater market value and buyer preference.
 
 
 ---
