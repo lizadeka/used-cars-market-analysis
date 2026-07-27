@@ -2,30 +2,30 @@
 
 ## 📌 Project Overview
 
-This project presents an end-to-end Business Intelligence solution developed using the **Used Cars (CarDekho) Kaggle Dataset**. The project was completed collaboratively, with each team member working on a different dataset before combining the analytical findings into a comprehensive Power BI dashboard.
+This project presents an end-to-end **Business Intelligence solution** developed using the **Used Cars (CarDekho) Kaggle Dataset**. Completed collaboratively, the project transforms raw automotive data into an interactive Power BI dashboard that provides meaningful insights into India's used car market.
 
-As part of the project, I was responsible for the **Car Details** dataset, where I performed extensive **data cleaning, feature engineering, Power Query transformations, DAX development, and dashboard design**. The raw dataset was reduced from **140 columns to 108 columns**, preparing it for accurate analysis and interactive reporting.
+The dashboard enables users to analyze:
 
-The dashboard provides business insights into:
+- 🚘 Vehicle pricing trends
+- 📊 Brand performance
+- 🌍 Geographic distribution of vehicle listings
+- ⚙️ Vehicle specifications and features
+- 📈 Market and inventory trends
+- 👤 Vehicle ownership and usage patterns
 
-- Vehicle pricing trends
-- Brand performance
-- Geographic distribution
-- Vehicle specifications and features
-- Market and inventory trends
-- Vehicle ownership and usage patterns
-
-Designed for dealerships, analysts, and decision-makers, the dashboard transforms raw automotive data into actionable insights through interactive visualizations, business KPIs, and data-driven storytelling.
+Designed for dealerships, analysts, and decision-makers, the dashboard combines **interactive visualizations, dynamic KPIs, DAX-powered calculations, and business storytelling** to support data-driven decision-making.
 
 ---
 
-# 🎯 Objectives
+## 🎯 Objectives
 
-- Analyze pricing trends across brands and vehicle categories
-- Understand regional market distribution
-- Identify vehicle usage patterns
-- Compare premium and luxury segments
-- Build an interactive business dashboard for decision making
+This project was designed to:
+
+- Transform raw automotive data into meaningful business insights.
+- Analyze vehicle pricing, specifications, and ownership trends.
+- Evaluate brand performance and regional market distribution.
+- Identify inventory patterns across different vehicle segments.
+- Build an interactive Business Intelligence dashboard for exploratory analysis and decision-making.
 
 ---
 
