@@ -6,7 +6,6 @@ This project presents an end-to-end **Business Intelligence solution** developed
 
 The dashboard enables users to analyze:
 
-- 🚘 Vehicle pricing trends
 - 📊 Brand performance
 - 🌍 Geographic distribution of vehicle listings
 - ⚙️ Vehicle specifications and features
@@ -24,7 +23,6 @@ This project was designed to:
 - Transform raw automotive data into meaningful business insights.
 - Analyze vehicle pricing, specifications, and ownership trends.
 - Evaluate brand performance and regional market distribution.
-- Identify inventory patterns across different vehicle segments.
 - Build an interactive Business Intelligence dashboard for exploratory analysis and decision-making.
 
 ---
