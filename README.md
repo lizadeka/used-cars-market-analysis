@@ -72,7 +72,7 @@ I worked on the **Car Details** dataset and was responsible for:
 
 - Managed the **Car Data** dataset.
 - Designed the overall dashboard theme.
-- Developed the **Dynamic Car Profile** and **Market and Specifications** pages.
+- Developed the **Dynamic Car Profile** and **Market and Vehicle Analysis** pages.
 - Collaborated on the **Executive Summary** page.
 
 Both team members collaborated to deliver the final Power BI solution by combining insights from their respective datasets.
