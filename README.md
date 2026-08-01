@@ -346,8 +346,8 @@ Additional DAX measures were created to support dynamic KPIs and dashboard visua
 
 ---
 
-# 👨‍💻 Author
-
-Liza Deka
-
-If you found this project useful, consider giving it a ⭐.
+## About Me  
+👋 Hi, I'm Liza Deka, a data enthusiast.  
+   I enjoy building projects, analyzing real-world data, and sharing insights through GitHub and LinkedIn. 
+   
+  📬 Let’s Connect: <a href="https://www.linkedin.com/in/liza-deka-869473369/">LinkedIn</a>
